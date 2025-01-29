@@ -1,0 +1,10 @@
+pydub==0.25.1
+webrtcvad==2.0.10
+torch==2.1.0
+torchaudio==2.1.0
+numpy==1.24.3
+scipy==1.11.4
+tortoise-tts==3.0.0
+fastapi==0.109.0
+uvicorn==0.27.0
+python-multipart==0.0.6

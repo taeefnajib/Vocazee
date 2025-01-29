@@ -1,0 +1,35 @@
+# Python virtual environment
+server/venv/
+venv/
+
+# Python cache files
+server/__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node modules
+client/node_modules/
+node_modules/
+
+# Server generated files
+server/output/*
+server/train_voices/*
+!server/output/.gitkeep
+!server/train_voices/.gitkeep
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS specific files
+.DS_Store
+Thumbs.db

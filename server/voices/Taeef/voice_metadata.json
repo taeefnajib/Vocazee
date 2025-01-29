@@ -1,0 +1,10 @@
+{
+  "voice_name": "Taeef",
+  "creation_date": "2025-01-28 04:16:28.298854",
+  "embedding_shape": [
+    1,
+    64
+  ],
+  "model": "univnet",
+  "version": "1.0"
+}

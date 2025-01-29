@@ -1,0 +1,10 @@
+{
+  "voice_name": "Test",
+  "creation_date": "2025-01-28 03:42:51.454412",
+  "embedding_shape": [
+    1,
+    64
+  ],
+  "model": "univnet",
+  "version": "1.0"
+}

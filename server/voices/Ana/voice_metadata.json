@@ -1,0 +1,10 @@
+{
+  "voice_name": "Ana",
+  "creation_date": "2025-01-28 02:01:56.483502",
+  "embedding_shape": [
+    1,
+    64
+  ],
+  "model": "univnet",
+  "version": "1.0"
+}
