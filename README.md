@@ -2,6 +2,12 @@
 
 A voice cloning and text-to-speech application that can generate speech in any voice.
 
+## Technical Details
+
+- Frontend: React
+- Backend: FastAPI
+- Text-to-speech: Tortoise TTS
+
 ## Installation
 
 1. Clone the repository:
