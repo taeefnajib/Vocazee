@@ -85,7 +85,7 @@ Each voice in the `voices` directory should have the following structure:
 ```
 voices/
 └── your_voice_name/
-    ├── original.wav           # Original audio file
+    ├── original.wav         # Original audio file
     ├── chunks               # Processed audio chunks
     ├── voice_latents.pth    # Cached voice latents
     └── embeddings.pt        # Voice embeddings
